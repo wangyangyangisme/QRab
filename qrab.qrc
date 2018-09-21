@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/">
+    <!-- QML files -->
+    <file alias="Main.qml">src/qml/Main.qml</file>
+    <file alias="AboutPage.qml">src/qml/AboutPage.qml</file>
+    <file alias="LinkText.qml">src/qml/LinkText.qml</file>
+    <file alias="SettingsPage.qml">src/qml/SettingsPage.qml</file>
+    <file alias="GrabPage.qml">src/qml/GrabPage.qml</file>
+    <file alias="QRabSettings.qml">src/qml/QRabSettings.qml</file>
+    <file alias="NavItem.qml">src/qml/NavItem.qml</file>
+    <file alias="ReplaceList.qml">src/qml/ReplaceList.qml</file>
+    <file alias="AdjustDialog.qml">src/qml/AdjustDialog.qml</file>
+
+    <!-- Icons -->
+    <file>icons/qrab.png</file>
+    <file>icons/qrab-image.png</file>
+    <file>icons/about.png</file>
+    <file>icons/license.png</file>
+    <file>icons/add.png</file>
+    <file>icons/rm.png</file>
+
+    <!-- Translations -->
+    <file>lang/qrab_pl.qm</file>
+
+    <file alias="qtquickcontrols2.conf">src/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>

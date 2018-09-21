@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=QRab
+GenericName=QR grabber
+GenericName[pl]=Łapie Qr kody
+Type=Application
+Comment=Grabs QR code from screen
+Comment[pl]=Przechwyca QR kody z ekranu
+Exec=qrab %f
+Icon=qrab
+Terminal=false
+Categories=Office;
